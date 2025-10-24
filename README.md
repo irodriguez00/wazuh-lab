@@ -55,9 +55,9 @@ Este laboratorio está diseñado para simular un entorno real de ciberseguridad 
 
 ## 📸 Capturas
 
-![Captura del Dashboard](./dashboard.png) 
-![Captura de Logs](./log.png)
-![Captura de Métricas](./metricas.png)
+* ![Captura del Dashboard](./dashboard.png)
+* ![Captura de Logs](./log.png)
+* ![Captura de Métricas](./metricas.png)
 
 ---
 
