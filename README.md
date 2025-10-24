@@ -55,9 +55,7 @@ Este laboratorio está diseñado para simular un entorno real de ciberseguridad 
 
 ## 📸 Capturas
 
-* ![Captura del Dashboard](./dashboard.png)
-* ![Captura de Logs](./log.png)
-* ![Captura de Métricas](./metricas.png)
+(https://github.com/irodriguez00/wazuh-lab/blob/136b001b36f44fe5ca975fced7625cc2abbf46a8/dashboard.png)
 
 ---
 
