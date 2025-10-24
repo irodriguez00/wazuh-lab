@@ -20,15 +20,15 @@ Este laboratorio está diseñado para simular un entorno real de ciberseguridad 
 
 ## ⚙️ Tecnologías utilizadas
 
-- Wazuh 
+- Wazuh.
 
-- OpenSearch / Wazuh Dashboard
+- OpenSearch / Wazuh Dashboard.
 
-- VirtualBox
+- VirtualBox.
 
-- Ubuntu 22.04 LTS (VMs)
+- Ubuntu 22.04 LTS (VMs).
 
-- Bash / Scripts para generar eventos de prueba
+- Bash / Scripts para generar eventos de prueba.
 
 ---
 
