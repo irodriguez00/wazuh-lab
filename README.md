@@ -1,6 +1,6 @@
 # 🛡️ Wazuh Lab
 
-Laboratorio de ciberseguridad para experimentar con monitoreo de seguridad y gestión de alertas.
+Laboratorio de ciberseguridad sobre monitoreo de seguridad y gestión de alertas.
 
 ---
 
