@@ -57,8 +57,7 @@ Este laboratorio está diseñado para simular un entorno real de ciberseguridad 
 
 <img width="1826" height="693" alt="image" src="https://github.com/user-attachments/assets/14ec0d87-27f4-4ae0-82bc-594aa2e6f2aa" />
 <img width="1606" height="611" alt="image" src="https://github.com/user-attachments/assets/e3ac15e0-657b-49dc-9d33-d545660c5168" />
-
-
+<img width="1845" height="837" alt="image" src="https://github.com/user-attachments/assets/87a51082-921e-4cf0-b5c9-3340a6b63e08" />
 
 ---
 
